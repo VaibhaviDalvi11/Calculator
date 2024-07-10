@@ -1,0 +1,22 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-red{
+    background: linear-gradient(45deg,#0a0a0a #3a4452);
+}
+
+.mx-auto{
+    margin:auto;
+}
+
+
+.flex{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.flex-col{
+    flex-direction: column;
+}
